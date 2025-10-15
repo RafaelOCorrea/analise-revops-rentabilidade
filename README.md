@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RafaelOCorrea/analise-revops-rentabilidade/blob/main/Projetoportifolio.ipynb)
+
 # analise-revops-rentabilidade
 Diagnóstico estatístico (Média x Mediana) que identificou R$900k em prejuízo oculto em custos logísticos de vendas globais.
 
